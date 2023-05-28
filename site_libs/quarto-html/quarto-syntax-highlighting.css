@@ -33,7 +33,7 @@
 
 /* other quarto variables */
 :root {
-  --quarto-font-monospace: "IBM Plex Mono", monospace;
+  --quarto-font-monospace: "IBM Plex Mono", monospace, monospace;
 }
 
 :root {
