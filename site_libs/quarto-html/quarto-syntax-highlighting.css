@@ -33,10 +33,6 @@
 
 /* other quarto variables */
 :root {
-  --quarto-font-monospace: "Roboto Mono", "IBM Plex Mono", monospace, monospace;
-}
-
-:root {
   --quarto-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
